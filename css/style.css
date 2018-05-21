@@ -34,7 +34,9 @@ Import Google Fonts
 /*--------------------
 1. General
 --------------------*/
-	
+.head{
+	color:white;
+}	
 body {
 	margin: 0px;
 	font-family: "Open Sans", Sans-serif;
@@ -846,5 +848,8 @@ and (max-width : 480px) {
 .img-thumbnail{
 height:100px;
 width:100px;
+}
 
+.push-left{
+	margin-left:40%;
 }
